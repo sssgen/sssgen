@@ -18,16 +18,16 @@ I'm interested in web development, AI technologies, UX/UI design. At the same ti
 <a href="https://www.github.com/sssgen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sssgen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+## Skills
 
 <p>
   <h3 align="center">Langs</h3>
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,postgres,figma" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,py,html,css" />
   </p>
-  <h3 align="center">Frameworks / Tools</h3>
+  <h3 align="center">Tools</h3>
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,git,bootstrap,postgres" />
+   <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap,postgres,figma,git" />
   </p>
   <h3 align="center">Software</h3>
   <p align="center">
@@ -36,11 +36,11 @@ src="https://img.shields.io/github/followers/sssgen?logo=github&style=for-the-ba
   <br>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/sssgen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dima-matushinec-060a5b2a5/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
