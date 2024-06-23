@@ -21,12 +21,18 @@ src="https://img.shields.io/github/followers/sssgen?logo=github&style=for-the-ba
 ### Skills
 
 <p>
-  <h3>Langs</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,postgres,figma" />
-  <h3>Frameworks / Tools</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,git,bootstrap,postgres" />
-  <h3>Software</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+  <h3 align="center">Langs</h3>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,postgres,figma" />
+  </p>
+  <h3 align="center">Frameworks / Tools</h3>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,git,bootstrap,postgres" />
+  </p>
+  <h3 align="center">Software</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,postman" />
+  </p>
   <br>
 </p>
 
