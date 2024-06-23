@@ -20,7 +20,6 @@ src="https://img.shields.io/github/followers/sssgen?logo=github&style=for-the-ba
 
 ### Skills
 
-<summary><h2><b>📚 My stack</b></h2></summary>
 <p>
   <h3>Langs</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,postgres,figma" />
