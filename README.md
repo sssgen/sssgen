@@ -1,8 +1,8 @@
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dima Matushinec
+# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dima Matushinec
 
 <p align="center">
- <img width="600" src="assets/bg.gif" alt="desktop"/>
+ <img width="800" heigh="200" src="assets/bg.gif" alt="desktop"/>
 </p>
 
 ## Frontend Developer (React/Next.js + TypeScript)
