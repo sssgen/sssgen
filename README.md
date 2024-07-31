@@ -10,6 +10,7 @@
 I'm interested in web development, AI technologies, UX/UI design. At the same time, I teach my student friends to program.
 
 - 🌍  I'm based in Kyiv, Ukraine.
+- 🧝‍♀️  My portfolio placed here - [click](https://dima-matushinec.vercel.app/)
 - ✉️  You can contact me at [d.matushinec@gmail.com](mailto:d.matushinec@gmail.com)
 - 🧠  I'm learning how to make awesome animations with ↘️GSAP, ↘️Framer motion, ↘️Three.js.
 - 🤝  I'm open to collaborating on commercial, interesting projects with great design.
